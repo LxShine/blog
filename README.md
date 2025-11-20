@@ -1,5 +1,2 @@
-"# lxshine.github.io" "# lxshine.github.io" 
-"# lxshine.github.io" 
-"# lxshine.github.io" 
 "# blog" 
-"# blog" 
+"# hexo clean && hexo generate && hexo deploy" 
